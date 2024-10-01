@@ -2,7 +2,7 @@
 
 ## Matchers
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/xo28sps2qf2iuncy?svg=true)](https://ci.appveyor.com/project/BudTon/matchers-test)
 
 ### Легенда
 
